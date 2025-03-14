@@ -10,7 +10,7 @@ public class DebugDemo {
         for (int i = 1; i <= n; i++) {
             resultado *= i; // Aquí se calcula el factorial
         }
-        
+        //Nueva
         return resultado;
     }
 
