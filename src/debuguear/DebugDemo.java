@@ -11,6 +11,7 @@ public class DebugDemo {
             resultado *= i; // Aquí se calcula el factorial
         }
         //Nueva
+        //Carlos de Parranda
         return resultado;
     }
 
